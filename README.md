@@ -13,9 +13,13 @@
 
 ---
 
-### 📊 GitHub Stats:  
-![Bagas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanKanaeru&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanKanaeru&layout=compact&theme=radical) 
+### 📊 GitHub Stats: 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NathanKanaeru&show_icons=true&theme=radical" alt="GitHub Stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanKanaeru&layout=compact&theme=radical" height="200px"/>
+  <img src="https://komarev.com/ghpvc/?username=NathanKanaeru&abbreviated=true" />
+</div>
+
 [![Trophy](https://github-profile-trophy.vercel.app/?username=NathanKanaeru&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
