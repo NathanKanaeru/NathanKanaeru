@@ -15,7 +15,11 @@
 
 ### 📊 GitHub Stats:  
 ![Bagas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanKanaeru&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanKanaeru&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanKanaeru&layout=compact&theme=radical) 
+
+### 📈 Contribution Graph:
+[![Bagas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NathanKanaeru&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
 
 ---
 
