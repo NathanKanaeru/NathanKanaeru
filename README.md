@@ -71,11 +71,9 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NathanKanaeru&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&ring_color=38B2AC" height="180" />
-  <img src="https://streak-stats.demolab.com?user=NathanKanaeru&theme=radical&hide_border=true&border_radius=20&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanKanaeru&layout=donut&theme=radical&hide_border=true&border_radius=20&langs_count=8" height="180" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=NathanKanaeru&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&ring_color=38B2AC" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NathanKanaeru&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanKanaeru&layout=compact&theme=radical&hide_border=true&border_radius=20&langs_count=8" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=NathanKanaeru&theme=radical&hide_border=true&border_radius=20" height="170" />
 </div>
 
 <br />

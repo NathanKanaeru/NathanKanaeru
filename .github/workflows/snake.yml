@@ -20,4 +20,4 @@ jobs:
         with:
           publish_branch: output
           publish_dir: dist
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PAT_TOKEN }}
