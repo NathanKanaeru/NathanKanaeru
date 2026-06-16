@@ -48,28 +48,12 @@
 
 <div align="center">
 
-### Languages
-
-![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
-![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
-![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)
-![Java](https://skillicons.dev/icons?i=java&theme=dark)
-![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
-![C](https://skillicons.dev/icons?i=c&theme=dark)
-
-### Frontend & Framework
-
-![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
-![React](https://skillicons.dev/icons?i=react&theme=dark)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
-
-### Backend & Tools
-
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
-![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=dark)
-![Git](https://skillicons.dev/icons?i=git&theme=dark)
-![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
-![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
+| Category | Technologies |
+|:---------|:-------------|
+| **Languages** | ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark) ![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark) ![Java](https://skillicons.dev/icons?i=java&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) ![C](https://skillicons.dev/icons?i=c&theme=dark) |
+| **Frontend** | ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark) ![React](https://skillicons.dev/icons?i=react&theme=dark) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark) |
+| **Backend** | ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) |
+| **Tools** | ![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=dark) ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark) ![NPM](https://skillicons.dev/icons?i=npm&theme=dark) |
 
 </div>
 
@@ -121,22 +105,47 @@
 ## 🏢 Organization
 
 <div align="center">
-  <a href="https://github.com/Nathan-Studios">
-    <img src="https://img.shields.io/badge/Nathan_Studios-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=38B2AC" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-
-| | Project | Description |
-|:-:|---------|-------------|
-| 🚀 | [**DjavaLauncher**](https://github.com/Nathan-Studios/DjavaLauncher) | Official client for Djava Roleplay server |
-| 📱 | [**IndoSAMP**](https://github.com/Nathan-Studios/IndoSAMP) | SA-MP Mobile client developed by Nathan |
-| 📦 | [**Pawn4Droid**](https://github.com/Nathan-Studios/Pawn4Droid) | Pawn compiler for Termux Android aarch64 |
-| 🛢️ | [**SA-MP-MySQL-aarch64**](https://github.com/Nathan-Studios/SA-MP-MySQL-aarch64) | MySQL plugin for SA-MP on ARM64 |
-
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <a href="https://github.com/Nathan-Studios">
+          <img src="https://github.com/Nathan-Studios.png" width="120" style="border-radius: 50%; border: 3px solid #38B2AC" />
+        </a>
+        <br /><br />
+        <a href="https://github.com/Nathan-Studios">
+          <img src="https://img.shields.io/badge/Nathan_Studios-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=38B2AC" />
+        </a>
+      </td>
+      <td align="left" width="500">
+        <table>
+          <tr>
+            <td align="center" width="40">🚀</td>
+            <td><a href="https://github.com/Nathan-Studios/DjavaLauncher"><b>DjavaLauncher</b></a></td>
+            <td>Official client for Djava Roleplay server</td>
+            <td><img src="https://img.shields.io/github/stars/Nathan-Studios/DjavaLauncher?style=flat-square&color=38B2AC" /></td>
+          </tr>
+          <tr>
+            <td align="center">📱</td>
+            <td><a href="https://github.com/Nathan-Studios/IndoSAMP"><b>IndoSAMP</b></a></td>
+            <td>SA-MP Mobile client by Nathan</td>
+            <td><img src="https://img.shields.io/github/stars/Nathan-Studios/IndoSAMP?style=flat-square&color=38B2AC" /></td>
+          </tr>
+          <tr>
+            <td align="center">📦</td>
+            <td><a href="https://github.com/Nathan-Studios/Pawn4Droid"><b>Pawn4Droid</b></a></td>
+            <td>Pawn compiler for Termux aarch64</td>
+            <td><img src="https://img.shields.io/github/stars/Nathan-Studios/Pawn4Droid?style=flat-square&color=38B2AC" /></td>
+          </tr>
+          <tr>
+            <td align="center">🛢️</td>
+            <td><a href="https://github.com/Nathan-Studios/SA-MP-MySQL-aarch64"><b>MySQL-aarch64</b></a></td>
+            <td>MySQL plugin for SA-MP on ARM64</td>
+            <td><img src="https://img.shields.io/github/stars/Nathan-Studios/SA-MP-MySQL-aarch64?style=flat-square&color=38B2AC" /></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
