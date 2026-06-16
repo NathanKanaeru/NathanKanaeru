@@ -1,58 +1,135 @@
-# 👋 Hello, I'm BagasZakyan!  
-
-🎯 **Passionate Developer** | 🖥️ **Linux Enthusiast** | 🌐 **Web & Game Developer**  
-
----
-
-### 🧾 About Me:
-- 🔭 Currently working on **SA-MP Plugins** & **PowerDNS Setup**  
-- 📚 Learning **Sketchware Pro**, **Fluxbox**, and **Matrix Calculations**  
-- ⚙️ Using **Linux ARM64**, **Termux**, and **Vercel** for projects  
-- 🎮 Developing games with **Java**  
-- 🌱 Exploring network configurations with **Mikrotik**  
-
----
-
-### 📊 GitHub Stats: 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NathanKanaeru&show_icons=true&theme=radical" alt="GitHub Stats" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanKanaeru&layout=compact&theme=radical" height="200px"/>
-  <img src="https://komarev.com/ghpvc/?username=NathanKanaeru&abbreviated=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=700&color=38B2AC&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+NathanKanaeru;Node.js+%26+Next.js+Developer;Android+Enthusiast;Open+Source+Lover;Always+Learning+New+Things" />
 </div>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=NathanKanaeru&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-### 📈 Contribution Graph:
-[![Bagas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NathanKanaeru&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
-
----
-
-### 🛠️ Tools & Technologies:  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Retrofit](https://img.shields.io/badge/Retrofit-007396?style=for-the-badge&logo=retrofit&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=white)  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NathanKanaeru&abbreviated=true&color=38B2AC&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/NathanKanaeru?style=for-the-badge&logo=github&color=38B2AC" />
+  <img src="https://img.shields.io/github/stars/NathanKanaeru?style=for-the-badge&logo=github&color=38B2AC" />
+</div>
 
 ---
 
-### 🌟 Featured Projects:  
-- [**SA-MP Discord Plugin**](https://github.com/bagaszakyan/samp-discord-plugin)  
-  Integrates Discord bots with SA-MP servers.  
-- [**Termux SAMP**](https://github.com/bagaszakyan/termuxsamp)  
-  A streamlined SA-MP game mode development in Termux.  
-- [**Matrix Calculator**](https://github.com/bagaszakyan/matrix-calculator)  
-  Modern, responsive calculator for matrix operations using Tailwind CSS.  
+## 🧑‍💻 About Me
+
+```yaml
+name: NathanKanaeru
+located_in: Indonesia
+currently_learning:
+  - Node.js & Next.js
+  - Android Development (Kotlin/Java)
+  - C++ for system-level projects
+  - New web technologies
+job_title: Student & Developer
+hobbies:
+  - Coding
+  - Exploring Linux
+  - Building side projects
+  - Open source contribution
+current_focus: Building DjavaLauncher ecosystem
+```
 
 ---
 
-### 📫 Connect with Me:  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagaszakyan)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)  
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
+![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
+![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)
+![Java](https://skillicons.dev/icons?i=java&theme=dark)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
+![C](https://skillicons.dev/icons?i=c&theme=dark)
+
+### Frontend & Framework
+
+![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
+
+### Backend & Tools
+
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=dark)
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
+
+</div>
 
 ---
 
-**“Code, Build, and Inspire!”**
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NathanKanaeru&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanKanaeru&layout=donut&theme=radical&hide_border=true&border_radius=20&langs_count=8" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NathanKanaeru&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanKanaeru&theme=redical&hide_border=true&area=true&radius=16" width="95%" />
+</div>
+
+---
+
+## 📦 Featured Projects
+
+<div align="center">
+
+| | Project | Description | Stack |
+|:-:|---------|-------------|-------|
+| 🚀 | [**DjavaLauncher-2.0**](https://github.com/NathanKanaeru/DjavaLauncher-2.0) | SA:MP Mobile Client x64 with OpenGL reflections, WaterShader, Custom SkyBox | C, ARM64 |
+| 🎮 | [**DjavaLauncher**](https://github.com/NathanKanaeru/DjavaLauncher) | SA:MP Mobile Client 2.10 — modified client for GTA San Andreas | C, ARM64 |
+| 🛠️ | [**djavalauncher-admin**](https://github.com/NathanKanaeru/djavalauncher-admin) | Admin panel for DjavaLauncher ecosystem | TypeScript, Next.js |
+| 🔮 | [**nexus**](https://github.com/NathanKanaeru/nexus) | Next-gen JavaScript project | JavaScript |
+| 📋 | [**absenpkl**](https://github.com/NathanKanaeru/absenpkl) | Absensi PKL management app | JavaScript |
+| 🤖 | [**bot-roblox**](https://github.com/NathanKanaeru/bot-roblox) | Roblox bot automation | JavaScript |
+| 📘 | [**debian-server**](https://github.com/NathanKanaeru/debian-server) | Debian server setup & tutorial guide | Docs |
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NathanKanaeru/NathanKanaeru/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NathanKanaeru/NathanKanaeru/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/NathanKanaeru/NathanKanaeru/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://instagram.com/bagaszkyn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:kanaerunathan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/NathanKanaeru">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+  <br /><br />
+
+  **"Code, Build, and Inspire!"**
+
+  <sub>⭐ From idea to reality — one commit at a time</sub>
+
+</div>
