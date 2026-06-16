@@ -79,7 +79,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NathanKanaeru&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&rank=-C" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NathanKanaeru&theme=radical&no-frame=true&no-bg=true&column=4" width="95%" />
 </div>
 
 <br />
