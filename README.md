@@ -12,22 +12,28 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: NathanKanaeru
-located_in: Indonesia
-currently_learning:
-  - Node.js & Next.js
-  - Android Development (Kotlin/Java)
-  - C++ for system-level projects
-  - New web technologies
-job_title: Student & Developer
-hobbies:
-  - Coding
-  - Exploring Linux
-  - Building side projects
-  - Open source contribution
-current_focus: Building DjavaLauncher ecosystem
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://github.com/NathanKanaeru.png" width="150" style="border-radius: 50%; border: 3px solid #38B2AC" />
+        <br /><br />
+        <b>NathanKanaeru</b>
+        <br />
+        <sub>🇮🇩 Indonesia</sub>
+      </td>
+      <td align="left" width="500">
+        <table>
+          <tr><td>🎯 &nbsp;<b>Role</b></td><td>Student & Developer</td></tr>
+          <tr><td>📚 &nbsp;<b>Learning</b></td><td>Node.js · Next.js · Android (Kotlin/Java) · C++</td></tr>
+          <tr><td>💻 &nbsp;<b>Focus</b></td><td>Building DjavaLauncher ecosystem</td></tr>
+          <tr><td>⚡ &nbsp;<b>Hobbies</b></td><td>Coding · Linux · Side Projects · Open Source</td></tr>
+          <tr><td>🌱 &nbsp;<b>Motto</b></td><td><i>Always learning new things</i></td></tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
