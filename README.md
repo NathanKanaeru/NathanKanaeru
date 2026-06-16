@@ -71,16 +71,30 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NathanKanaeru&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NathanKanaeru&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&ring_color=38B2AC" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanKanaeru&theme=radical&hide_border=true&border_radius=20&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanKanaeru&layout=donut&theme=radical&hide_border=true&border_radius=20&langs_count=8" height="180" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NathanKanaeru&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NathanKanaeru&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&rank=-C" width="95%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanKanaeru&theme=redical&hide_border=true&area=true&radius=16&bg_color=0d1117&color=38B2AC&line=38B2AC&point=FFFFFF" width="95%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanKanaeru&theme=redical&hide_border=true&area=true&radius=16" width="95%" />
+  <br />
+  <details>
+    <summary>📈 <b>Click for detailed stats</b></summary>
+    <br />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanKanaeru&theme=radical" width="95%" />
+  </details>
 </div>
 
 ---
