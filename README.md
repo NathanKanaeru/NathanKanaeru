@@ -88,14 +88,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanKanaeru&theme=radical&hide_border=true&area=true&radius=16" width="95%" />
 </div>
 
-<div align="center">
-  <br />
-  <details>
-    <summary>📈 <b>Click for detailed stats</b></summary>
-    <br />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanKanaeru&theme=radical" width="95%" />
-  </details>
-</div>
+
 
 ---
 
