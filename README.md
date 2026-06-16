@@ -8,6 +8,13 @@
   <img src="https://img.shields.io/github/stars/NathanKanaeru?style=for-the-badge&logo=github&color=38B2AC" />
 </div>
 
+<div align="center">
+  <img src="https://badges.pufler.dev/repos/NathanKanaeru?style=flat-square&color=38B2AC&logo=github" />
+  <img src="https://badges.pufler.dev/commits/monthly/NathanKanaeru?style=flat-square&color=38B2AC&logo=github" />
+  <img src="https://badges.pufler.dev/years/NathanKanaeru?style=flat-square&color=38B2AC&logo=github" />
+  <img src="https://img.shields.io/github/last-commit/NathanKanaeru/NathanKanaeru?style=flat-square&color=38B2AC&logo=github" />
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -88,24 +95,25 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanKanaeru&theme=radical&hide_border=true&area=true&radius=16" width="95%" />
 </div>
 
-
-
 ---
 
 ## 📦 Featured Projects
 
 <div align="center">
-
-| | Project | Description | Stack |
-|:-:|---------|-------------|-------|
-| 🚀 | [**DjavaLauncher-2.0**](https://github.com/NathanKanaeru/DjavaLauncher-2.0) | SA:MP Mobile Client x64 with OpenGL reflections, WaterShader, Custom SkyBox | C, ARM64 |
-| 🎮 | [**DjavaLauncher**](https://github.com/NathanKanaeru/DjavaLauncher) | SA:MP Mobile Client 2.10 — modified client for GTA San Andreas | C, ARM64 |
-| 🛠️ | [**djavalauncher-admin**](https://github.com/NathanKanaeru/djavalauncher-admin) | Admin panel for DjavaLauncher ecosystem | TypeScript, Next.js |
-| 🔮 | [**nexus**](https://github.com/NathanKanaeru/nexus) | Next-gen JavaScript project | JavaScript |
-| 📋 | [**absenpkl**](https://github.com/NathanKanaeru/absenpkl) | Absensi PKL management app | JavaScript |
-| 🤖 | [**bot-roblox**](https://github.com/NathanKanaeru/bot-roblox) | Roblox bot automation | JavaScript |
-| 📘 | [**debian-server**](https://github.com/NathanKanaeru/debian-server) | Debian server setup & tutorial guide | Docs |
-
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanKanaeru&repo=DjavaLauncher-2.0&theme=radical&border_radius=12" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanKanaeru&repo=djavalauncher-admin&theme=radical&border_radius=12" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanKanaeru&repo=nexus&theme=radical&border_radius=12" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanKanaeru&repo=absenpkl&theme=radical&border_radius=12" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanKanaeru&repo=bot-roblox&theme=radical&border_radius=12" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanKanaeru&repo=debian-server&theme=radical&border_radius=12" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -155,6 +163,25 @@
   <a href="https://github.com/NathanKanaeru">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://discord.com/users/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## ☕ Support Me
+
+<div align="center">
+  <a href="https://github.com/sponsors/NathanKanaeru">
+    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+  </a>
+  <a href="https://ko-fi.com/">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+  <a href="https://saweria.co/">
+    <img src="https://img.shields.io/badge/Saweria-FFA116?style=for-the-badge&logo=&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -164,8 +191,16 @@
 
   <br /><br />
 
+  <img src="https://img.shields.io/badge/Made%20with-❤️-38B2AC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-38B2AC?style=for-the-badge" />
+
+  <br /><br />
+
   **"Code, Build, and Inspire!"**
 
   <sub>⭐ From idea to reality — one commit at a time</sub>
 
+  <br /><br />
+
+  <img src="https://raw.githubusercontent.com/NathanKanaeru/NathanKanaeru/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="0" height="0" />
 </div>
