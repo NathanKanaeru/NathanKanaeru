@@ -85,7 +85,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanKanaeru&theme=redical&hide_border=true&area=true&radius=16&bg_color=0d1117&color=38B2AC&line=38B2AC&point=FFFFFF" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanKanaeru&theme=radical&hide_border=true&area=true&radius=16" width="95%" />
 </div>
 
 <div align="center">
@@ -112,6 +112,29 @@
 | 📋 | [**absenpkl**](https://github.com/NathanKanaeru/absenpkl) | Absensi PKL management app | JavaScript |
 | 🤖 | [**bot-roblox**](https://github.com/NathanKanaeru/bot-roblox) | Roblox bot automation | JavaScript |
 | 📘 | [**debian-server**](https://github.com/NathanKanaeru/debian-server) | Debian server setup & tutorial guide | Docs |
+
+</div>
+
+---
+
+## 🏢 Organization
+
+<div align="center">
+  <a href="https://github.com/Nathan-Studios">
+    <img src="https://img.shields.io/badge/Nathan_Studios-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=38B2AC" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+
+| | Project | Description |
+|:-:|---------|-------------|
+| 🚀 | [**DjavaLauncher**](https://github.com/Nathan-Studios/DjavaLauncher) | Official client for Djava Roleplay server |
+| 📱 | [**IndoSAMP**](https://github.com/Nathan-Studios/IndoSAMP) | SA-MP Mobile client developed by Nathan |
+| 📦 | [**Pawn4Droid**](https://github.com/Nathan-Studios/Pawn4Droid) | Pawn compiler for Termux Android aarch64 |
+| 🛢️ | [**SA-MP-MySQL-aarch64**](https://github.com/Nathan-Studios/SA-MP-MySQL-aarch64) | MySQL plugin for SA-MP on ARM64 |
 
 </div>
 
